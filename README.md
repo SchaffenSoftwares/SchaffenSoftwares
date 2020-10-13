@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Our Skills
-|Dart|Java|Kotlin|
+| Dart | Java | Kotlin |
