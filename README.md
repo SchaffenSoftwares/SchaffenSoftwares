@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Our Skills
- Dart | Java | Kotlin 
- ---- | ---- | ------ 
- Dart| Java | Kotlin
+ | DART | JAVA | KOTLIN | REACT JS |
+ | ---- | ---- | ------ | -------- |
+ | HTML | CSS | JAVASCRIPT | NODE.JS |
+ | ---- | --- | ---------- | ------- |
+ | ANGULAR JS | PYTHON | MACHINE LEARNING | DATA SCIENCE |
