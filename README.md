@@ -23,3 +23,4 @@ Here are some ideas to get you started:
  | ANGULAR JS | PYTHON | MACHINE LEARNING | DATA SCIENCE |
  | MONGO DB | FIREBASE | VS CODE | ANACONDA |
  | ANDROID STUDIO | PHOTOSHOP | ILLUSTRATOR | ADOBE XD|
+ |      |      |        |          |
